@@ -82,7 +82,39 @@ Finds the volume of the solid obtained by revolving a curve (one variable functi
 **Output**
 * Displays the volume obtained by revolving the curve around y-axis
 * Graph of the solid whose volume was obtained
- 
 
+<br/>
 
+## Gradient of a scalar-valued function
+Finds the gradient of a scalar-valued function and represents it in a graph
 
+**Input**
+* A scalar-valued function
+
+**Output**
+* Displays the gradient of the scalar-valued function (vector field)
+* Graph of the resulting vector field
+
+<br/>
+
+## Curl of a vector field
+Finds the curl of a vector field and represents it in a graph
+
+**Input**
+* A vector field
+
+**Output**
+* Displays the curl of the vector field (also a vector field)
+* Graph of the vector field
+
+<br/>
+
+## Divergence of a vector field
+Finds the divergence of a vector field and represents it in a graph
+
+**Input**
+* A vector field
+
+**Output**
+* Displays the divergence of the vector field (a scalar quantity)
+* Graph of the vector field
